@@ -1,5 +1,5 @@
 
-<p><img align="center" alt="gif" width="1080" src="https://github.com/ilkoninn/ilkoninn/blob/main/Gm7L.gif"/></p>
+<p><img align="center" alt="gif" width="1080" src="https://github.com/huseynhesenov1/huseynhesenov1/blob/main/Gm7L.gif"/></p>
 
 
 # Həsənov Hüseyin
