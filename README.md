@@ -18,7 +18,7 @@
 <!-- BACK-END LANGUAGES AND TOOLS -->
 <p align="center">
   <a href="https://www.w3schools.com">
-    <img src="https://skillicons.dev/icons?i=py,dotnet,postman,mysql,html,css,js,bootstrap,git,github,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=c# ,py,dotnet,postman,mysql,html,css,js,bootstrap,git,github,vscode,visualstudio" />
   </a>
 </p>
 <br>
