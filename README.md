@@ -6,7 +6,7 @@
 
 :man_technologist:**`Programmer (Back-End)`**:man_technologist:
 
-### Hi!, I'm Hüseyin, I am studying at the IT faculty of AzTU (Azerbaijan Technical University). I am also a person who is trying to learn the computer field and improve myself in this potential over time. So far, I have been involved in many jobs, including web development, and over time, I have been exploring other fields and working as a computer person. You can see the information I have mentioned and also the projects I have written about, using the fields I have been involved in so far. But I still have little knowledge about these sectors and I want to research more information and prepare projects related to these sectors. Therefore, I am still trying to improve my level as a player
+### Hi! I'm Hüseyin, a student at the IT faculty of Azerbaijan Technical University (AzTU). I'm passionate about computers and constantly working to improve my skills in this field. So far, I’ve explored various areas including web development, and I enjoy taking part in different tech projects. Although I’m still learning, I’m eager to research more and build practical projects to grow as a developer
 
 
 <br><br>
